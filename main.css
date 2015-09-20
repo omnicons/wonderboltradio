@@ -74,7 +74,7 @@ a:hover {
  background: rgba(0,0,0,0.4);
 }
 #navbar {
-    background: none;
+    background-color: transparent;
 }
 ul {
     list-style-type: none;
