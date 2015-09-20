@@ -63,6 +63,8 @@ p {
 }
 a {
   color: gold;
+  text-decoration: none;
+}
 }
 a:hover {
   color: skyblue;
