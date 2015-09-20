@@ -1,0 +1,73 @@
+div {
+  border-radius: 15px 15px;
+  width: 55%;
+  margin: 10px;
+  border: none;
+  padding: 5px;
+  background: rgba(0,0,0,.7);
+  overflow: visible;
+}
+body {
+  background-image: url("/bg.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+h1 {
+  font-family: serif;
+  color: white;
+}
+h2 {
+  font-family: sans-serif;
+  color: white
+}
+#logo {
+  border-radius: 15px 15px;
+  width: 75px;
+  height: 75px;
+  float: left;
+  overflow: auto;
+  border: none;
+  background: rgba(0,0,0,0.0);
+}
+#player {
+  border-radius: 30px 30px;
+  border: none;
+  height: 150px;
+  position: relative;
+  width: 35%;
+  background: rgba(0,0,0,0.0);
+  margin: 10px;
+  overflow: visible;
+}
+#Logotext{
+  border: none;
+  position: relative;
+  background: rgba(0,0,0,0.0);
+
+}
+#logoarea {
+  padding-bottom: 10px;
+  }
+#tumblr {
+  width: 90%;
+  padding: 10px;
+  background: rgba(0,0,0,0.0);
+}
+h4 {
+  color: lightgrey;
+  font-family: monospace;
+}
+p {
+  color: lightblue;
+}
+a {
+  color: gold;
+}
+a:hover {
+  color: skyblue;
+}
+#tumblrpost {
+ width: 95%;
+ background: rgba(0,0,0,0.4);
+}
