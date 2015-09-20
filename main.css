@@ -73,6 +73,9 @@ a:hover {
  width: 95%;
  background: rgba(0,0,0,0.4);
 }
+#navbar {
+    background: none;
+}
 ul {
     list-style-type: none;
     margin: 0;
