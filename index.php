@@ -8,7 +8,7 @@
   <div id=logoarea>
     <div id=logo><img id=logo src=icon.png></img></div>
     <center><div id=Logotext><h1>Wonderbolt Radio</h1></div></center>
-    <div>
+    <div id=navbar>
         <ul>
             <li><a href="index.php">Home</a></li>
             <li><a href="calendar.html">Calendar</a></li>
