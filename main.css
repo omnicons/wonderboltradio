@@ -79,7 +79,7 @@ a:hover {
     padding:20px 0;
     background:transparent;
 }
-ul#nav {
+#nav {
     font-family: Verdana;
     font-size:14px;
     list-style:none;
@@ -88,11 +88,11 @@ ul#nav {
     width:100%;
     overflow: auto;
 }
-ul#nav li a:hover {
+#nav li a:hover {
     background:#a37666;
     color:#000;
 }
-ul#nav li a {
+#nav li a {
     text-decoration:none;
     display: block;
     padding:5px 21px;
@@ -100,6 +100,7 @@ ul#nav li a {
     color:#eee;
     float:left;
     text-align:center;
+}
 ul {
     list-style-type: none;
     margin: 0;
