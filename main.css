@@ -74,12 +74,15 @@ a:hover {
  background: rgba(0,0,0,0.4);
 }
 #navbar {
-    width:60%;
-    margin:0 auto;
-    padding:20px 0;
+    float:right;
+    margin-top: -6%;
+    right: 22%;
+    width: 275px;
     background:transparent;
 }
 #nav {
+    border: 0 solid; 
+    border-radius:15px;
     font-family: Verdana;
     font-size:14px;
     list-style:none;
@@ -93,6 +96,8 @@ a:hover {
     color:#000;
 }
 #nav li a {
+    border: 0px solid; 
+    border-radius:15px;
     text-decoration:none;
     display: block;
     padding:5px 21px;
