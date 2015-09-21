@@ -8,13 +8,13 @@
   <div id=logoarea>
     <div id=logo><img id=logo src=icon.png></img></div>
     <center><div id=Logotext><h1>Wonderbolt Radio</h1></div></center>
-    <center><div id=navbar>
+    <div id=navbar>
         <ul id=nav>
             <li><a href="index.php">Home</a></li>
             <li><a href="calendar.html">Calendar</a></li>
             <li><a href="about.html">About</a></li>
         </ul>
-    </div></center>
+    </div>
   </div>
   <div>
     <h2>Radio Player</h2>
