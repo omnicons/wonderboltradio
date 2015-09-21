@@ -96,6 +96,19 @@ ul#nav li a:hover {
     border-bottom:2px solid #c59888;
     border-left:2px solid #815444;
 }
+ul#nav li a {
+    text-decoration:none;
+    display: block;
+    padding:5px 21px;
+    background:#5F3222;
+    color:#eee;
+    float:left;
+    text-align:center;
+    border-top:2px solid #815444;
+    border-right:2px solid #3d1000;
+    border-bottom:2px solid #3d1000;
+    border-left:2px solid #815444;
+}
 ul {
     list-style-type: none;
     margin: 0;
